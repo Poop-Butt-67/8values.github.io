@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism/Maoism",
+        "name": "Liberal Autocracy",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Communism",
+        "name": "Dumb",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Socialism",
+        "name": "Stupid",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Socialism",
+        "name": "Le Jesus le was le a le socialist",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Socialism",
+        "name": "Libertarian Socialism (Based)",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -144,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Distributism",
+        "name": "Le Jesus le was le a le communist",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -180,7 +180,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Democracy",
+        "name": "Sanderist Communism",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Totalitarianism",
+        "name": "Pedophilia",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Global Totalitarianism",
+        "name": "Epsteinism",
         "stats": {
             "econ": 50,
             "dipl": 80,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Technocracy",
+        "name": "Epstein-Muskism",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "I Just Wanna Grill!!!",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -252,7 +252,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Anarchism",
+        "name": "Yes God, Yes Master",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -279,7 +279,7 @@ ideologies = [
         }
     },
     {
-        "name": "Reactionary",
+        "name": "Get an ideal bro",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Egoism",
+        "name": "Anarcho-Rapeism",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -315,7 +315,7 @@ ideologies = [
         }
     },
     {
-        "name": "Nazism",
+        "name": "Judaistic Autocracy",
         "stats": {
             "econ": 40,
             "dipl": 0,
@@ -328,7 +328,7 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 20,
-            "govt": 20,
+            "govt": 10,
             "scty": 50
         }
     },
@@ -337,7 +337,7 @@ ideologies = [
         "stats": {
             "econ": 40,
             "dipl": 20,
-            "govt": 20,
+            "govt": 12,
             "scty": 20
         }
     },
@@ -360,7 +360,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Liberalism",
+        "name": "Chudism",
         "stats": {
             "econ": 30,
             "dipl": 30,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Capitalism",
+        "name": "Robloxism",
         "stats": {
             "econ": 0,
             "dipl": 50,
