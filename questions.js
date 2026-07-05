@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "question": "Publicly-funded research is more gooder to the people than leaving it to the market.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -45,7 +45,7 @@ questions = [
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "Tariffs on imports and stuff are worth the downsides to boost local production.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "Give people what they need and get from them what they can give",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "One should be allowed to give their family and shit stuff after they die",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -108,9 +108,9 @@ questions = [
         }
     },
     {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
+        "question": "Rich dudes should get better treatment than poor dudes",
         "effect": {
-            "econ": -10,
+            "econ": -15,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "The means of production should belong to the workers who use them.",
+        "question": "The workers should run the place they work",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -170,14 +170,7 @@ questions = [
             "scty": 0
         }
     },
-    {
-        "question": "A united world government would be beneficial to mankind.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
-        }
+  
     },
     {
         "question": "It is more important to retain peaceful relations than to further our strength.",
@@ -216,16 +209,16 @@ questions = [
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "I consider myself patriotic",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": -7,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Research should be conducted on an international scale.",
+        "question": "Research should be conducted in more than one country",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -234,7 +227,7 @@ questions = [
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
+        "question": "Governments should be accountable to more people than just the people of their nation",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -252,7 +245,7 @@ questions = [
         }
     },
     {
-        "question": "My religious values should be spread as much as possible.",
+        "question": "Religious values should be spread as much as possible.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -279,7 +272,7 @@ questions = [
         }
     },
     {
-        "question": "The general populace makes poor decisions.",
+        "question": "The general populace pretty much always makes stupid decisions.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -297,7 +290,7 @@ questions = [
         }
     },
     {
-        "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "question": "The sacrifice of some basic liberties are necessary to protect us from acts of terrorism.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -306,7 +299,7 @@ questions = [
         }
     },
     {
-        "question": "Government surveillance is necessary in the modern world.",
+        "question": "The government should watch over all of us",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -315,7 +308,7 @@ questions = [
         }
     },
     {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "The very existence of the state is a threat to freedom.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,7 +335,7 @@ questions = [
         }
     },
     {
-        "question": "A hierarchical state is best.",
+        "question": "A heavily hierarchical state is best.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -387,7 +380,7 @@ questions = [
         }
     },
     {
-        "question": "A better world will come from automation, science, and technology.",
+        "question": "A better world will come from science",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -396,7 +389,7 @@ questions = [
         }
     },
     {
-        "question": "Children should be educated in religious or traditional values.",
+        "question": "Schools should instill traditional religious values in kids",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -432,7 +425,7 @@ questions = [
         }
     },
     {
-        "question": "Climate change is currently one of the greatest threats to our way of life.",
+        "question": "Climate change is probably gonna fuck us up the ass.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -450,7 +443,7 @@ questions = [
         }
     },
     {
-        "question": "Society was better many years ago than it is now.",
+        "question": "Society was better MANY years ago than it is now.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -495,7 +488,7 @@ questions = [
         }
     },
     {
-        "question": "Same-sex marriage should be legal.",
+        "question": "LGBTQ+ People should have basic human rights",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -540,7 +533,7 @@ questions = [
         }
     },
     {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
+        "question": "Dudes shouldn't have like 50 guns for no reason",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -549,7 +542,7 @@ questions = [
         }
     },
     {
-        "question": "I support single-payer, universal healthcare.",
+        "question": "Universal healthcare is GOATed.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -558,7 +551,7 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be illegal.",
+        "question": "Prostitution is bad in it of itself",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -594,7 +587,7 @@ questions = [
         }
     },
     {
-        "question": "We should open our borders to immigration.",
+        "question": "Immigration should be allowed",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -612,7 +605,7 @@ questions = [
         }
     },
     {
-        "question": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "question": "All people - regardless of factors like race or sexuality - should be treated equally.",
         "effect": {
             "econ": 10,
             "dipl": 10,
